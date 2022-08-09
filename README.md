@@ -7,3 +7,5 @@
 * Finally, add the rows where there are fewer than 4 elements. What do you need to adjust to get these to work?
 * Once your layout is mostly working, add the colors and make it pretty.
 
+
+![calc](https://user-images.githubusercontent.com/24884380/183709877-b11459e9-6d0b-4310-9f0b-db8f0a4b33c8.jpg)
