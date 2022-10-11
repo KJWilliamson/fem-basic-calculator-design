@@ -1,3 +1,5 @@
+# Basic calculator built with HTML, CSS, and Javascript
+
 * Create a wrapper with a width of 400px to set up the calculator.
 * Determine how many rows and columns we need.
 * Identify elements that occupy more than one column.
